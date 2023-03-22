@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessRunner", "ProcessRunner\ProcessRunner.csproj", "{3B65704A-E895-440A-9BB2-BF262A3819F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessRunnerCore", "ProcessRunner\ProcessRunnerCore.csproj", "{3B65704A-E895-440A-9BB2-BF262A3819F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution files", "Solution files", "{6A3BC4F8-F76E-4EE7-B66B-999EB263893A}"
 	ProjectSection(SolutionItems) = preProject
@@ -21,9 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BFE74E
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessRunner.Tests", "ProcessRunner.Tests\ProcessRunner.Tests.csproj", "{E771545C-05F9-4F86-9B05-988647EA3D64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessRunnerCore.Tests", "ProcessRunner.Tests\ProcessRunnerCore.Tests.csproj", "{E771545C-05F9-4F86-9B05-988647EA3D64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo", "Echo\Echo.csproj", "{6B44DFC5-503C-43F0-B3CE-9EC8E86EDC2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Echo", "Echo\Echo.csproj", "{6B44DFC5-503C-43F0-B3CE-9EC8E86EDC2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-ProcessRunner
-=============
+ProcessRunnerCore
+=================
 
-C# library for calling executable files
+C# library for calling executable files compatible with .NET6

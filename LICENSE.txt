@@ -1,6 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2013 Morten Houston Ludvigsen
+Copyright (c) 2023 Kris Culin
+
+Original Copyright (c) Morten Houston Ludvigsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
